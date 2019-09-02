@@ -1,0 +1,13 @@
+{
+    "name": "dhanushka/calculator",
+    "description": "Sample calculator package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhanushka Jayasekara",
+            "email": "dhanushka.jayasekara@qualitapps.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
